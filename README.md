@@ -1,0 +1,1 @@
+# paul-stricker-api-php-client
